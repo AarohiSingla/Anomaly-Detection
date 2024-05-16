@@ -1,3 +1,6 @@
+#### Paper: https://arxiv.org/pdf/1801.04264v3
+![p9](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/546dfe01-1cab-48af-abff-7e94d8beed7e)
+
 
 ![1a](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/f35c00be-49c4-4065-a880-54f58224f88f)
 
