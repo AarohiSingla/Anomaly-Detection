@@ -1,4 +1,13 @@
 
+![1a](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/f35c00be-49c4-4065-a880-54f58224f88f)
+
+![1b](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/869a9b75-f2e9-4cf2-91ef-646c8b4ff29a)
+
+#### Dataset: 
+![data](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/c85e5aa4-e88f-472f-bd21-fedb042586b2)
+
+
+
 #### 1- Clone this github repo: 
 
 git clone https://github.com/ekosman/AnomalyDetectionCVPR2018-Pytorch.git
