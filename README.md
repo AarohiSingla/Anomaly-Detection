@@ -1,11 +1,12 @@
-#### Paper: https://arxiv.org/pdf/1801.04264v3
+## Paper: https://arxiv.org/pdf/1801.04264v3
 ![p9](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/546dfe01-1cab-48af-abff-7e94d8beed7e)
 
 
-#### Dataset: 
+## Dataset: 
 ![data](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/c85e5aa4-e88f-472f-bd21-fedb042586b2)
 
 
+## Implemetation:
 
 #### 1- Clone this github repo: 
 
