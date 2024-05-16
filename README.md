@@ -1,11 +1,6 @@
 ## Paper: https://arxiv.org/pdf/1801.04264v3
 ![p9](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/546dfe01-1cab-48af-abff-7e94d8beed7e)
 
-
-## Dataset: 
-![data](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/c85e5aa4-e88f-472f-bd21-fedb042586b2)
-
-
 ## Implemetation:
 
 #### 1- Clone this github repo: 
@@ -44,6 +39,8 @@ The dataset can be also downloaded from the following link: https://visionlab.un
 You can also download dataset in parts through following link
 
 https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0
+
+![data](https://github.com/AarohiSingla/Anomaly-Detection/assets/60029146/c85e5aa4-e88f-472f-bd21-fedb042586b2)
 
 
 #### Feature Extraction model:
